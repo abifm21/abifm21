@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi, I'm Abi 👋
 
+### 🎓 Software Engineering Student
+- 💻 Currently focused on computer science fundamentals and logic.
+- 🚀 Preparing for upcoming university courses.
+- 🛠️ Building a foundation in Python, C, and Java.
+
+---
+
+### 🐍 Activity
+![github contribution grid snake](https://raw.githubusercontent.com/abifm21/abifm21/output/github-contribution-grid-snake.svg)
 <!--
 **abifm21/abifm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
