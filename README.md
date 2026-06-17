@@ -2,7 +2,7 @@
 
 ### Software Engineering Student
 - Currently focused on computer science fundamentals and logic.
-- Building a foundation in Java, C, and Python.
+- Building a foundation in Java and C.
 
 ---
 
